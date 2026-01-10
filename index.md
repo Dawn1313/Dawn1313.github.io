@@ -1,4 +1,8 @@
-## Shu Cheng
+---
+title: SC Bioinformatics Consulting
+---
+
+# SC Bioinformatics Consulting - Shu Cheng 
 ## Bioinformatics Services and Consulting
 
 I help academic labs, public health labs and biotech teams turn biological data into clear, reproducible results.
