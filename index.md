@@ -1,5 +1,5 @@
 ---
-title: SC Bioinformatics Consulting
+title: SC Bioinformatics Services and Consulting | Pipeline review and guidance
 ---
 
 # SC Bioinformatics Consulting - Shu Cheng 
@@ -12,7 +12,7 @@ I help academic labs, public health labs and biotech teams turn biological data 
 
 I provide practical bioinformatics support, including:
 
-- RNA-seq, genomic, and metgenomic data analysis  
+- RNA-seq, genomic, and metagenomic data analysis  
 
 - Data quality control and troubleshooting  
 
@@ -25,7 +25,7 @@ I provide practical bioinformatics support, including:
 
 ## About Me
 
-I am an independent bioinformatics consultant with experience supporting bioinformtics-related projects from raw data to publication-ready results.
+I am an independent bioinformatics consultant with experience supporting bioinformatics-related projects from raw data to publication-ready results.
 
 I value clear communication, reproducibility, and efficient problem-solving.
 
